@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order-web
-          image: hanbatha000.azurecr.io/order-web:928859f
+          image: hanbatha000.azurecr.io/order-web:e762200
           ports:
             - containerPort: 80
           livenessProbe:

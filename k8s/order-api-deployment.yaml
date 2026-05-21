@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order-api
-          image: hanbatha000.azurecr.io/order-api:928859f
+          image: hanbatha000.azurecr.io/order-api:e762200
           ports:
             - containerPort: 8080
           env:
